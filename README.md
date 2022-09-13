@@ -22,11 +22,10 @@
  - [processing.py](https://py.processing.org/)
  - [processing for android](https://android.processing.org/)
  - [processing for pi](https://pi.processing.org/)
-
-# Tutorials
- ## Books
+ - 
+# Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
- ## Videos
+# Videos
  - [The Coding train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 
