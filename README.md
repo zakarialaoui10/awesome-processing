@@ -7,5 +7,6 @@
  - [processing.js]
  - [processing.py](https://py.processing.org/)
  - [processing for android]
+ - [processing for pi](https://pi.processing.org/)
  - [p5.js](https://p5js.org/)
 
