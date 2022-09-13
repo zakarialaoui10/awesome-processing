@@ -16,6 +16,8 @@
 
 # Contents
  - [Environement](#environement)
+ - [Books](#books)
+ - [Youtube chanels](#youtube-chanels)
 # Environement
  - [processing](https://processing.org/)
  - [processing.js](https://happycoding.io/tutorials/processing/processing-js)
@@ -26,7 +28,7 @@
  - 
 # Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
-# Videos
+# Yotube chanels
  - [The Coding train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 
