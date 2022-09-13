@@ -26,6 +26,8 @@
 # Tutorials
  ## Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
+ ## Videos
+ - [The Coding train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 
 
