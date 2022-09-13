@@ -1,7 +1,18 @@
 # awesome-processing
-[Processing](https://processing.or) is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
 
-<img src="assets/processing-logo.png">
+<table>
+ <tr>
+  <td>  
+   <a href="https://processing.or">Processing </a>is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
+  </td>
+  <td>
+   <img src="assets/processing-logo.png">
+  </td>
+ </tr>
+ </table>
+
+
+
 
 # Contents
 # Environement
