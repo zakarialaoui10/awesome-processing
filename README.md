@@ -29,6 +29,8 @@
 # Libraries
 # Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
+ - [Learn Python Visually: Creative Coding with Processing.py](https://www.amazon.com/Learn-Python-Visually-Tristan-Bunn/dp/1718500963)
+ -
 # Yotube chanels
  - [The Coding train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
