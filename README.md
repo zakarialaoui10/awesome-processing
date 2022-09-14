@@ -58,8 +58,20 @@
   - ## 3D
     - [Camera 3D](https://ixora.io/projects/camera-3D/) by [Jim Schmitz](https://ixora.io/)
     - [Collada Loader for SketchUp and Blender](http://www.die-seite.ch/) by [Markus Zimmermann](http://www.die-seite.ch/)
+    - [Culebra Behavior Library for Processing](http://www.complicitmatter.com/culebra-java/) by [Luis Quinones](http://complicitmatter.com/)
+    - [Everything Will Be IKEron Gjoni](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) by [Eron Gjoni](https://github.com/EGjoni/)
+    - [OCD: Obsessive Camera Direction](http://www.gdsstudios.com/processing/libraries/ocd/) by [Kristian Damkjer](http://www.gdsstudios.com/)
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## GUI
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Language
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Sound
   - ## Animation
   - ## Geometry
