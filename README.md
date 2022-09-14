@@ -64,8 +64,16 @@
     - [Patchy](http://mrfeinberg.com/patchy/) by [Jonathan Feinberg](http://mrfeinberg.com/)
     - [PeasyCam](http://mrfeinberg.com/peasycam/) by [Jonathan Feinberg](http://mrfeinberg.com/)
     - [Picking](http://n.clavaud.free.fr/processing/library/picking/) by [Nicolas Clavaud](http://n.clavaud.free.fr/)
-  - ## GUI
     - [QueasyCam](https://github.com/jrc03c/queasycam) by [Josh Castle](https://twitter.com/jrc03c)
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+  - ## GUI
+    - []() by []()
+    - []() by []()
+    - []() by []()
     - []() by []()
     - []() by []()
   - ## Language
