@@ -108,8 +108,36 @@
   - ## Video & Vision
 # Tutorials
  - # Video Tutorials
+   - [The Coding train](https://thecodingtrain.com/)
+   - [Hello Processing](http://hello.processing.org/)
+   - [Welcome to Processing 3](https://vimeo.com/140600280)
+   - [Debug](https://vimeo.com/140134398)
+   - [2 Animation & Intetraction](https://imaginary-institute.com/the-course.html)
+   - [Fun Programming](https://funprogramming.org/)
+   - [Plethora Project](https://www.plethora-project.com/education/2017/5/31/processing-java-programming)   
  - # Text Tutorials
- - [The Coding train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+   - []()
+ 
 # Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
  - [Learn Python Visually: Creative Coding with Processing.py](https://www.amazon.com/Learn-Python-Visually-Tristan-Bunn/dp/1718500963)
