@@ -127,11 +127,11 @@
     - []() by []()
     - []() by []()
   - ## Other 
-    - [Green]() by [Zacchary Dempsey-Plante]()
-    - [JavaFX]() by [The Processing Foundation]()
-    - [Path Finder]() by [Peter Lager]()
-    - [Ptmx]() by [Caldas Lopes]()
-    - [Steganos]() by [Peter Lager]()
+    - [Green](https://ztdp.ca/projects/school/Green) by [Zacchary Dempsey-Plante](https://ztdp.ca/)
+    - [JavaFX](https://github.com/processing/processing4-javafx) by [The Processing Foundation]()
+    - [Path Finder](http://www.lagers.org.uk/pfind/index.html) by [Peter Lager](http://www.lagers.org.uk/)
+    - [Ptmx](https://github.com/linux-man/ptmx) by [Caldas Lopes](http://softlab.pt/)
+    - [Steganos](http://www.lagers.org.uk/steganos/index.html) by [Peter Lager](http://www.lagers.org.uk/)
   - ## Utilerias
     - []() by []()
     - []() by []()
