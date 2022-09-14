@@ -61,11 +61,11 @@
     - [Culebra Behavior Library for Processing](http://www.complicitmatter.com/culebra-java/) by [Luis Quinones](http://complicitmatter.com/)
     - [Everything Will Be IKEron Gjoni](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) by [Eron Gjoni](https://github.com/EGjoni/)
     - [OCD: Obsessive Camera Direction](http://www.gdsstudios.com/processing/libraries/ocd/) by [Kristian Damkjer](http://www.gdsstudios.com/)
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [Patchy](http://mrfeinberg.com/patchy/) by [Jonathan Feinberg](http://mrfeinberg.com/)
+    - [PeasyCam](http://mrfeinberg.com/peasycam/) by [Jonathan Feinberg](http://mrfeinberg.com/)
+    - [Picking](http://n.clavaud.free.fr/processing/library/picking/) by [Nicolas Clavaud](http://n.clavaud.free.fr/)
   - ## GUI
-    - []() by []()
+    - [QueasyCam](https://github.com/jrc03c/queasycam) by [Josh Castle](https://twitter.com/jrc03c)
     - []() by []()
     - []() by []()
   - ## Language
