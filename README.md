@@ -73,11 +73,16 @@
     - [planetarium](https://github.com/codeanticode/planetarium) by [Andres Colubri](http://andrescolubri.net/)
     - [proscene](http://otrolado.info/) by [proscene](http://otrolado.info/) *******
   - ## GUI
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [ControlP5]() by []()
+    - [G4P]() by []()
+    - [Guido]() by []()
+    - [Interfascia]() by []()
+    - [Swing Helper]() by []()
+    - [UiBooster]() by []()
+    - [handy]() by []()
+    - [meter]() by []()
+    - [proscene]() by []()
+    
   - ## Language
     - []() by []()
     - []() by []()
