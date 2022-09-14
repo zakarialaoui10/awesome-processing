@@ -99,6 +99,9 @@
     - [Fontastic](http://code.andreaskoller.com/libraries/fontastic) by [Andreas Koller](http://andreaskoller.com/)
     - [Geomerative](http://www.ricardmarxer.com/geomerative) by [Ricard Marxer](http://www.ricardmarxer.com/)
   - ## Compilation
+    - [GenerativeDesign](http://www.generative-gestaltung.de/) by [Hramut Bohnacker & Benedikt Groos]()
+    - [ToxicLibs](http://toxiclibs.org/) by [Karsten Schmidt](http://postspectacular.com/)
+    - [gicentreUtils](http://www.gicentre.org/utils/) by [Jo Wood](http://gicentre.org/)
   - ## Hardware
   - ## Other 
   - ## Utilerias
