@@ -133,11 +133,11 @@
    - [Sound](https://processing.org/tutorials/sound)
    - [Electronics](https://processing.org/tutorials/electronics)
    - [Network](https://processing.org/tutorials/network)
-   - [Print]() 
-   - [PVector]()
-   - [P3D]()
-   - [Video]()
-   - [Render Techniques]()
+   - [Print](https://processing.org/tutorials/print) 
+   - [PVector](https://processing.org/tutorials/pvector)
+   - [P3D](https://processing.org/tutorials/p3d)
+   - [Video](https://processing.org/tutorials/video)
+   - [Render Techniques](https://processing.org/tutorials/rendering)
  
 # Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
