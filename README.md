@@ -24,6 +24,11 @@
      - [3D](#3d)
      - [GUI](#gui)
      - [Language](#language)
+     - [Sound](#sound)
+     - [Animation](#animation)
+     - [Geometry](#geometry)
+     - [Math](#math)
+     - [Typography](#typography)
 # Environement
  - [processing](https://processing.org/)
  - [processing.js](https://happycoding.io/tutorials/processing/processing-js)
