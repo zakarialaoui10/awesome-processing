@@ -56,6 +56,7 @@
   - [Video](https://processing.org/reference/libraries/video/index.html)
 - # Contributions
   - ## 3D
+    - [Camera 3D](https://ixora.io/projects/camera-3D/) By [Jim Schmitz](https://ixora.io/)
   - ## GUI
   - ## Language
   - ## Sound
