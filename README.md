@@ -31,6 +31,7 @@
 - # core
   - [DXF Export](https://processing.org/reference/libraries/dxf/index.html)
   - [Hardware I/O](https://processing.org/reference/libraries/io/index.html)
+  - [Network](https://processing.org/reference/libraries/net/index.html)
 # Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
  - [Learn Python Visually: Creative Coding with Processing.py](https://www.amazon.com/Learn-Python-Visually-Tristan-Bunn/dp/1718500963)
