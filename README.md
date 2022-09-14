@@ -56,7 +56,8 @@
   - [Video](https://processing.org/reference/libraries/video/index.html)
 - # Contributions
   - ## 3D
-    - [Camera 3D](https://ixora.io/projects/camera-3D/) By [Jim Schmitz](https://ixora.io/)
+    - [Camera 3D](https://ixora.io/projects/camera-3D/) by [Jim Schmitz](https://ixora.io/)
+    - [Collada Loader for SketchUp and Blender](http://www.die-seite.ch/) by [Markus Zimmermann](http://www.die-seite.ch/)
   - ## GUI
   - ## Language
   - ## Sound
