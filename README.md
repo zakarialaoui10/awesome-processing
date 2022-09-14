@@ -92,8 +92,23 @@
     - []() by []()
     - []() by []()
     - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Animation
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Geometry
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Math
     - [Combinatorics](https://github.com/fjenett/combinatorics) by [Florian Jenett](http://www.bezier.de/)
     - [Complex Numbers](https://github.com/vmathmachine/Complex-Numbers/tree/latest) by [Math Machine](https://discourse.processing.org/u/math_machine/)
@@ -110,6 +125,11 @@
     - [ToxicLibs](http://toxiclibs.org/) by [Karsten Schmidt](http://postspectacular.com/)
     - [gicentreUtils](http://www.gicentre.org/utils/) by [Jo Wood](http://gicentre.org/)
   - ## Hardware
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Other 
     - []() by []()
     - []() by []()
@@ -120,13 +140,32 @@
     - []() by []()
     - []() by []()
     - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Data
     - []() by []()
     - []() by []()
     - []() by []()
+    - []() by []()
+    - []() by []()
   - ## IO
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Simulation
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Video & Vision
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []()
+    - []() by []() 
 # Tutorials
  - # Video Tutorials
    - [The Coding train](https://thecodingtrain.com/)
