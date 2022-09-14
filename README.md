@@ -61,6 +61,16 @@
   - ## Sound
   - ## Animation
   - ## Geometry
+  - ## Math
+  - ## Typography
+  - ## Compilation
+  - ## Hardware
+  - ## Other 
+  - ## Utilerias
+  - ## Data
+  - ## IO
+  - ## Simulation
+  - ## Video & Vision
 # Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
  - [Learn Python Visually: Creative Coding with Processing.py](https://www.amazon.com/Learn-Python-Visually-Tristan-Bunn/dp/1718500963)
