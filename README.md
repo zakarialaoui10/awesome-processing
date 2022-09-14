@@ -95,6 +95,9 @@
   - ## Animation
   - ## Geometry
   - ## Math
+    - [Combinatorics](https://github.com/fjenett/combinatorics) by [Florian Jenett](http://www.bezier.de/)
+    - [Complex Numbers](https://github.com/vmathmachine/Complex-Numbers/tree/latest) by [Math Machine](https://discourse.processing.org/u/math_machine/)
+    - [HiVis](https://github.com/OliverColeman/hivis) by [Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran](https://github.com/OliverColeman/)
   - ## Typography
     - [Fontastic](http://code.andreaskoller.com/libraries/fontastic) by [Andreas Koller](http://andreaskoller.com/)
     - [Geomerative](http://www.ricardmarxer.com/geomerative) by [Ricard Marxer](http://www.ricardmarxer.com/)
