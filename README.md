@@ -70,7 +70,8 @@
     - [iGeo](http://igeo.jp/) by [Satoru Sugihara](http://atlv.org/)
     - [nub](https://github.com/VisualComputing/nub) by [Jean Pierre Charalambos
 ](https://visualcomputing.github.io/)
-    - []() by []()
+    - [planetarium](https://github.com/codeanticode/planetarium) by [Andres Colubri](http://andrescolubri.net/)
+    - [proscene](http://otrolado.info/) by [proscene](http://otrolado.info/) *******
   - ## GUI
     - []() by []()
     - []() by []()
