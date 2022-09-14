@@ -94,6 +94,8 @@
   - ## Geometry
   - ## Math
   - ## Typography
+    - [Fontastic](http://code.andreaskoller.com/libraries/fontastic) by [Andreas Koller](http://andreaskoller.com/)
+    - [Geomerative](http://www.ricardmarxer.com/geomerative) by [Ricard Marxer](http://www.ricardmarxer.com/)
   - ## Compilation
   - ## Hardware
   - ## Other 
