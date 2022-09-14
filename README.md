@@ -21,6 +21,9 @@
  - [Libraries](#libraries)
    - [Core](#core)
    - [Contributions](#contributions)
+     - [3D](#3d)
+     - [GUI](#gui)
+     - [Language](#language)
 # Environement
  - [processing](https://processing.org/)
  - [processing.js](https://happycoding.io/tutorials/processing/processing-js)
