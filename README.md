@@ -98,6 +98,10 @@
     - [Combinatorics](https://github.com/fjenett/combinatorics) by [Florian Jenett](http://www.bezier.de/)
     - [Complex Numbers](https://github.com/vmathmachine/Complex-Numbers/tree/latest) by [Math Machine](https://discourse.processing.org/u/math_machine/)
     - [HiVis](https://github.com/OliverColeman/hivis) by [Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran](https://github.com/OliverColeman/)
+    - [Jasmine](http://www.lagers.org.uk/jasmine) by [Peter Lager](http://www.lagers.org.uk/)
+    - [QScript](http://www.lagers.org.uk/qscript) by [Peter Lager](http://www.lagers.org.uk/)
+    - [grafica](http://jagracar.com/grafica.php) by [Javier Gracia Carpio](http://jagracar.com/)
+    - [gwoptics](http://www.gwoptics.org/processing/gwoptics_p5lib/) by [Daniel Brown and Andreas Freise](http://www.gwoptics.org/processing/gwoptics_p5lib/)
   - ## Typography
     - [Fontastic](http://code.andreaskoller.com/libraries/fontastic) by [Andreas Koller](http://andreaskoller.com/)
     - [Geomerative](http://www.ricardmarxer.com/geomerative) by [Ricard Marxer](http://www.ricardmarxer.com/)
