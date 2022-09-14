@@ -65,10 +65,11 @@
     - [PeasyCam](http://mrfeinberg.com/peasycam/) by [Jonathan Feinberg](http://mrfeinberg.com/)
     - [Picking](http://n.clavaud.free.fr/processing/library/picking/) by [Nicolas Clavaud](http://n.clavaud.free.fr/)
     - [QueasyCam](https://github.com/jrc03c/queasycam) by [Josh Castle](https://twitter.com/jrc03c)
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [Shapes 3D](http://www.lagers.org.uk/s3d4p/index.html) by [Peter Lager](http://www.lagers.org.uk/)
+    - [extruder](http://maxlfarrell.gitlab.io/extruder) by [Max Farrell](https://arcane.info/)
+    - [iGeo](http://igeo.jp/) by [Satoru Sugihara](http://atlv.org/)
+    - [nub](https://github.com/VisualComputing/nub) by [Jean Pierre Charalambos
+](https://visualcomputing.github.io/)
     - []() by []()
   - ## GUI
     - []() by []()
