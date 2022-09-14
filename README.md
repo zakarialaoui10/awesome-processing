@@ -84,10 +84,12 @@
     - [proscene](http://otrolado.info/) by [Jean Pierre Charalambos](http://otrolado.info/)
     
   - ## Language
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [Eliza](http://interfaze.info/libraries/eliza/) by [Andres Colubri](http://interfaze.info/)
+    - [RiTa](https://rednoise.org/rita/) by [Daniel C. Howe](https://rednoise.org/daniel)
   - ## Sound
+    - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Animation
   - ## Geometry
   - ## Math
