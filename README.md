@@ -27,6 +27,7 @@
  - [processing for android](https://android.processing.org/)
  - [processing for pi](https://pi.processing.org/)
 # Libraries
+- # core
 # Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
  - [Learn Python Visually: Creative Coding with Processing.py](https://www.amazon.com/Learn-Python-Visually-Tristan-Bunn/dp/1718500963)
@@ -34,7 +35,7 @@
  - [
 Programming 101: The How and Why of Programming Revealed Using the Processing Programming Language](https://link.springer.com/book/10.1007/978-1-4842-3697-0)
 - [O Código Transcendente: Uma Introdução Prática à Programação e Arte Gerativa](https://codigotranscendente.github.io/livro/livro/lindex.html) , html
-# Yotube chanels
+# Youtube chanels
  - [The Coding train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 
