@@ -89,11 +89,11 @@
     - [Eliza](http://interfaze.info/libraries/eliza/) by [Andres Colubri](http://interfaze.info/)
     - [RiTa](https://rednoise.org/rita/) by [Daniel C. Howe](https://rednoise.org/daniel)
   - ## Sound
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [Beads](http://www.beadsproject.net/) by [Ollie Bown](http://www.olliebown.com/)
+    - [Cassette](https://github.com/shlomihod/cassette) by [Shlomi Hod]()
+    - [ComposingForEveryone](http://www.kramann.info/cfe) by [Guido Kramann](http://www.kramann.info/cfe)
+    - [Loom](http://corajr.github.io/loom) by [Cora Johnson-Roberson](http://www.corajr.com/)
+    - [Minim](http://code.compartmental.net/minim/) by [Damien Di Fede](http://code.compartmental.net/)
     - []() by []()
   - ## Animation
     - []() by []()
