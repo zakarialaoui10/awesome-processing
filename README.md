@@ -127,11 +127,11 @@
     - []() by []()
     - []() by []()
   - ## Other 
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [Green]() by [Zacchary Dempsey-Plante]()
+    - [JavaFX]() by [The Processing Foundation]()
+    - [Path Finder]() by [Peter Lager]()
+    - [Ptmx]() by [Caldas Lopes]()
+    - [Steganos]() by [Peter Lager]()
   - ## Utilerias
     - []() by []()
     - []() by []()
