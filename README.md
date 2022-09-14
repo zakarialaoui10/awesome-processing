@@ -36,6 +36,8 @@
      - [Simulation](#simulation)
      - [Video & Vision](#video-&-vision)
  - [Tutorials](#tutorials)
+   -[Video Tutorials](#video-tutorials)
+   -[Text Tutorials](#text-tutorials)
  - [Books](#books)
 # Environement
  - [processing](https://processing.org/)
