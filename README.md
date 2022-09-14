@@ -20,6 +20,7 @@
  - [Youtube chanels](#youtube-chanels)
  - [Libraries](#libraries)
    - [Core](#core)
+   - [Contributions](#contributions)
 # Environement
  - [processing](https://processing.org/)
  - [processing.js](https://happycoding.io/tutorials/processing/processing-js)
@@ -28,7 +29,7 @@
  - [processing for android](https://android.processing.org/)
  - [processing for pi](https://pi.processing.org/)
 # Libraries
-- # core
+- # Core
   - [DXF Export](https://processing.org/reference/libraries/dxf/index.html)
   - [Hardware I/O](https://processing.org/reference/libraries/io/index.html)
   - [Network](https://processing.org/reference/libraries/net/index.html)
@@ -37,6 +38,7 @@
   - [Sound](https://processing.org/reference/libraries/sound/index.html)
   - [SVG Export](https://processing.org/reference/libraries/svg/index.html)
   - [Video](https://processing.org/reference/libraries/video/index.html)
+- # Contributions
 # Books
  - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
  - [Learn Python Visually: Creative Coding with Processing.py](https://www.amazon.com/Learn-Python-Visually-Tristan-Bunn/dp/1718500963)
