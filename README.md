@@ -73,15 +73,15 @@
     - [planetarium](https://github.com/codeanticode/planetarium) by [Andres Colubri](http://andrescolubri.net/)
     - [proscene](http://otrolado.info/) by [proscene](http://otrolado.info/) *******
   - ## GUI
-    - [ControlP5]() by []()
-    - [G4P]() by []()
-    - [Guido]() by []()
-    - [Interfascia]() by []()
-    - [Swing Helper]() by []()
-    - [UiBooster]() by []()
-    - [handy]() by []()
-    - [meter]() by []()
-    - [proscene]() by []()
+    - [ControlP5](http://www.sojamo.de/libraries/controlp5) by [Andreas Schlegel](http://www.sojamo.de/)
+    - [G4P](http://www.lagers.org.uk/g4p) by [Peter Lager](http://www.lagers.org.uk/)
+    - [Guido](https://github.com/fjenett/Guido) by [Florian Jenett](http://www.bezier.de/)
+    - [Interfascia](http://github.com/brendanberg/interfascia) by [Brendan Berg]()
+    - [Swing Helper](https://github.com/NumericPrime/SwingHelperProcessing) by [Michael LukasNick 'Milchreis' Müller]()
+    - [UiBooster](http://github.com/milchreis/uibooster-for-processing) by [Nick 'Milchreis' Müller](http://github.com/milchreis)
+    - [handy](https://www.gicentre.net/software/) by [Jo Wood](http://gicentre.net/)
+    - [meter](https://github.com/BillKujawa/meter.git) by [Bill (Papa) Kujaw](https://processing.org/reference/libraries/Papa)
+    - [proscene](http://otrolado.info/) by [Jean Pierre Charalambos](http://otrolado.info/)
     
   - ## Language
     - []() by []()
