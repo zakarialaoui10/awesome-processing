@@ -139,10 +139,10 @@
     - []() by []()
     - []() by []()
   - ## Data
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [AP-Sync]() by [Nigel Tiany]()
+    - [AndroidCapture for Processing]() by [Jianbin Qi]()
+    - [ArtNet for Java and Processing]() by [Florian Bruggisser]()
+    - [BezierSQLib]() by [Florian Jenett]()
     - []() by []()
   - ## IO
     - []() by []()
