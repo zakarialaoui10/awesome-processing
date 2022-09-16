@@ -139,10 +139,10 @@
     - []() by []()
     - []() by []()
   - ## Data
-    - [AP-Sync]() by [Nigel Tiany]()
-    - [AndroidCapture for Processing]() by [Jianbin Qi]()
-    - [ArtNet for Java and Processing]() by [Florian Bruggisser]()
-    - [BezierSQLib]() by [Florian Jenett]()
+    - [AP-Sync](http://ap-sync.github.io/) by [Nigel Tiany](http://nigeltiany.com/)
+    - [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) by [Jianbin Qi](https://github.com/onlylemi/)
+    - [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) by [Florian Bruggisser](https://bildspur.ch/)
+    - [BezierSQLib](https://github.com/fjenett/sql-library-processing) by [Florian Jenett](http://www.bezier.de/)
     - []() by []()
   - ## IO
     - []() by []()
