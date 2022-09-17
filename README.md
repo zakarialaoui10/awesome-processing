@@ -168,6 +168,10 @@
     - [oscP5](http://www.sojamo.de/libraries/oscp5) by [Andreas Schlegel](http://www.sojamo.de/)
     
   - ## IO
+    - [AP-Sync](http://ap-sync.github.io/) by [Nigel Tiany](http://nigeltiany.com/)
+    - [Console](https://github.com/keshrath/Console) by [Mathias Markl](http://www.mukprojects.at/)
+    - [Drop](http://transfluxus.github.io/drop/) by [Ramin Soleymani](http://diskordier.net/)
+    - [Game Control Plus](http://lagers.org.uk/gamecontrol) by [Peter Lager](http://lagers.org.uk/)
     - []() by []()
     - []() by []()
     - []() by []()
@@ -179,11 +183,17 @@
     - [Carnivore](http://r-s-g.org/carnivore) by [RSG](http://r-s-g.org/)
     - [Combinatorics](https://github.com/fjenett/combinatorics) by [Florian Jenett](http://www.bezier.de/)
     - []() by []()
+    - []() by []()
+    - []() by []()
   - ## Video & Vision
     - [BlobDetection](Nick 'Milchreis' Müller) by [Julien 'v3ga' Gachadoat](http://www.v3ga.net/)
     - [BoofCV for Processing](http://boofcv.org/index.php?title=Tutorial_Processing) by [Peter Abeles]()
     - [GL Video](https://github.com/gohai/processing-glvideo) by [Gottfried Haider](http://gottfriedhaider.com/)
     - [Image processing algorithms](http://github.com/milchreis/processing-imageprocessing) by [Nick 'Milchreis' Müller](http://github.com/milchreis)
+    - []() by []() 
+    - []() by []() 
+    - []() by []() 
+    - []() by []() 
     - []() by []() 
 # Tutorials
  - # Video Tutorials
