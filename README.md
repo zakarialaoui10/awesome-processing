@@ -174,10 +174,10 @@
     - []() by []()
     - []() by []()
   - ## Simulation
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [AI for 2D Games](http://www.lagers.org.uk/ai4g/index.html) by [Peter Lager](http://www.lagers.org.uk/)
+    - [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) by [Daniel Shiffman](http://www.shiffman.net/)
+    - [Carnivore](http://r-s-g.org/carnivore) by [RSG](http://r-s-g.org/)
+    - [Combinatorics](https://github.com/fjenett/combinatorics) by [Florian Jenett](http://www.bezier.de/)
     - []() by []()
   - ## Video & Vision
     - []() by []()
