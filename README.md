@@ -133,7 +133,10 @@
     - [Ptmx](https://github.com/linux-man/ptmx) by [Caldas Lopes](http://softlab.pt/)
     - [Steganos](http://www.lagers.org.uk/steganos/index.html) by [Peter Lager](http://www.lagers.org.uk/)
   - ## Utilerias
-    - []() by []()
+    - [$1 Unistroke Recognizer]() by [Darius Morawiec]()
+    - [ColorBlindness]() by [Jim Schmitz]()
+    - [ColorScheme]() by [J. Taylor OConnor]()
+    - [CountdownTimer]() by [Dong Hyun Choi]()
     - []() by []()
     - []() by []()
     - []() by []()
