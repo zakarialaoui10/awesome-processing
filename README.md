@@ -159,8 +159,14 @@
     - [Simple Tweet](https://github.com/gohai/processing-simpletweet) by [Gottfried Haider](http://gottfriedhaider.com/)
     - [SoundCloud](https://github.com/nok/soundcloud-processing) by [Darius Morawiec](http://nok.onl/)
     - [Squarify](https://github.com/agatheblues/squarify) by [Agathe Lenclen](https://github.com/agatheblues)
-    - []() by []()
-    -
+    - [Temboo](http://www.temboo.com/processing) by [Temboo](http://temboo.com/)
+    - [UDP]() by [Stephane Cousot]()
+    - [Unfolding Maps]() by [Till Nagel]()
+    - [Websockets]() by [Lasse Steenbock Vestergaard]()
+    - [WootingKeyboard]() by [Shinhoo Park @ KAIST Interactive Media Lab]()
+    - [XlsReader]() by [Florian Jenett]()
+    - [oscP5]() by [Andreas Schlegel]()
+    
   - ## IO
     - []() by []()
     - []() by []()
