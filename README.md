@@ -121,10 +121,10 @@
     - [ToxicLibs](http://toxiclibs.org/) by [Karsten Schmidt](http://postspectacular.com/)
     - [gicentreUtils](http://www.gicentre.org/utils/) by [Jo Wood](http://gicentre.org/)
   - ## Hardware
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [Apple Light Sensor](http://projects.formatlos.de/ambientlightsensor/) by [Martin Raedlinger](http://www.formatlos.de/)
+    - [Arduino (Firmata)](http://arduino.cc/playground/Interfacing/Processing) by [David A. Mellis](http://dam.mellis.org/)
+    - [BlinkStick](http://arvydas.github.io/blinkstick-processing/) by [Arvydas Juskevicius](http://www.blinkstick.com/)
+    - [DMX4Artists](https://github.com/jaysonh/Dmx4Artists/) by [Jayson Haebich](http://www.jaysonh.com/)
     - []() by []()
   - ## Other 
     - [Green](https://ztdp.ca/projects/school/Green) by [Zacchary Dempsey-Plante](https://ztdp.ca/)
