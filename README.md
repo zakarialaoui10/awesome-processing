@@ -156,10 +156,11 @@
     - [SerialRecord](https://osteele.github.io/Processing_SerialRecord/) by [Oliver Steele](https://processing.org/reference/steele@osteele.com)
     - [ShortMessage](http://hamzeen.github.io/smsP5) by [Hamzeen. H.](http://www.hamzeen.com/)
     - [Signal Filter](https://github.com/SableRaf/signalfilter) by [Raphael de Courville](https://vimeo.com/sableraf/)
+    - [Simple Tweet](https://github.com/gohai/processing-simpletweet) by [Gottfried Haider](http://gottfriedhaider.com/)
+    - [SoundCloud](https://github.com/nok/soundcloud-processing) by [Darius Morawiec](http://nok.onl/)
+    - [Squarify](https://github.com/agatheblues/squarify) by [Agathe Lenclen](https://github.com/agatheblues)
     - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    -
   - ## IO
     - []() by []()
     - []() by []()
