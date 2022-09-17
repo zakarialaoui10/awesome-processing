@@ -185,8 +185,8 @@
     - []() by []()
     - []() by []()
     - []() by []()
-  - ## Video & Vision
-    - [BlobDetection](Nick 'Milchreis' Müller) by [Julien 'v3ga' Gachadoat](http://www.v3ga.net/)
+  - ## Video & Vision 
+    - [BlobDetection](http://www.v3ga.net/processing/BlobDetection/) by [Julien 'v3ga' Gachadoat](http://www.v3ga.net/)
     - [BoofCV for Processing](http://boofcv.org/index.php?title=Tutorial_Processing) by [Peter Abeles]()
     - [GL Video](https://github.com/gohai/processing-glvideo) by [Gottfried Haider](http://gottfriedhaider.com/)
     - [Image processing algorithms](http://github.com/milchreis/processing-imageprocessing) by [Nick 'Milchreis' Müller](http://github.com/milchreis)
