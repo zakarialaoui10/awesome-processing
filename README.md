@@ -180,10 +180,10 @@
     - [Combinatorics](https://github.com/fjenett/combinatorics) by [Florian Jenett](http://www.bezier.de/)
     - []() by []()
   - ## Video & Vision
-    - []() by []()
-    - []() by []()
-    - []() by []()
-    - []() by []()
+    - [BlobDetection](Nick 'Milchreis' Müller) by [Julien 'v3ga' Gachadoat](http://www.v3ga.net/)
+    - [BoofCV for Processing](http://boofcv.org/index.php?title=Tutorial_Processing) by [Peter Abeles]()
+    - [GL Video](https://github.com/gohai/processing-glvideo) by [Gottfried Haider](http://gottfriedhaider.com/)
+    - [Image processing algorithms](http://github.com/milchreis/processing-imageprocessing) by [Nick 'Milchreis' Müller](http://github.com/milchreis)
     - []() by []() 
 # Tutorials
  - # Video Tutorials
