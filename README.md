@@ -217,6 +217,8 @@
     - [BoofCV for Processing](http://boofcv.org/index.php?title=Tutorial_Processing) by [Peter Abeles]()
     - [GL Video](https://github.com/gohai/processing-glvideo) by [Gottfried Haider](http://gottfriedhaider.com/)
     - [Image processing algorithms](http://github.com/milchreis/processing-imageprocessing) by [Nick 'Milchreis' Müller](http://github.com/milchreis)
+    - [PS3Eye](https://github.com/diwi/PS3Eye) by [Thomas Diewald](http://www.thomasdiewald.com/)
+    - [PixelFlow](https://github.com/diwi/PixelFlow) by [Thomas Diewald](http://www.thomasdiewald.com/)
     - []() by []() 
     - []() by []() 
     - []() by []() 
