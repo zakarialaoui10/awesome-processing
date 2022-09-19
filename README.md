@@ -62,7 +62,6 @@
     - [nub](https://github.com/VisualComputing/nub) by [Jean Pierre Charalambos
 ](https://visualcomputing.github.io/)
     - [planetarium](https://github.com/codeanticode/planetarium) by [Andres Colubri](http://andrescolubri.net/)
-    - [proscene](http://otrolado.info/) by [proscene](http://otrolado.info/) *******
   - ## GUI
     - [ControlP5](http://www.sojamo.de/libraries/controlp5) by [Andreas Schlegel](http://www.sojamo.de/)
     - [G4P](http://www.lagers.org.uk/g4p) by [Peter Lager](http://www.lagers.org.uk/)
