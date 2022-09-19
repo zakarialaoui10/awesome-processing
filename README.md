@@ -273,6 +273,8 @@
 - Pro Processing for Images and Computer Vision with OpenCV [Order from APress](https://www.apress.com/us/book/9781484227749)
 - Creating Procedural Artworks with Processing A Holistic Guide [Order Print/eBook from Amazon](http://amzn.to/2oS1Bx1) , [Order from iBooks](https://geo.itunes.apple.com/us/book/creating-procedural-artworks-with-processing/id1247713287?mt=11)
 - Processing: An Introduction to Programming [Order from CRC Press](https://www.crcpress.com/Processing-An-Introduction-to-Programming/Nyhoff-Nyhoff/p/book/9781482255959) , [Order from Amazon](https://www.amazon.com/Processing-Introduction-Programming-Jeffrey-Nyhoff/dp/1482255952)
+- Programming for Artists [Download the book](http://ptahi.ru/2016/02/07/programming-for-artists/)
+- Data-driven Graphic Design: Creative Coding for Visual Communication [Order from Amazon](http://www.amazon.com/dp/1472578309/)
 
 
 
