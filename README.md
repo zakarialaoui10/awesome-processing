@@ -276,6 +276,8 @@
  - Programming for Artists [Download the book](http://ptahi.ru/2016/02/07/programming-for-artists/)
  - Data-driven Graphic Design: Creative Coding for Visual Communication [Order from Amazon](http://www.amazon.com/dp/1472578309/)
  - Make: Getting Started with Processing, Second Edition [Order Print/EBook from O'Reilly](http://shop.oreilly.com/product/0636920031406.do) , [Order from Amazon](http://www.amazon.com/gp/product/1457187086/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1457187086&linkCode=as2&tag=processing09-20&linkId=JEJC22CTQ5ZF4ZYO)
- - 
-
+ - Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction [Order from Amazon](https://www.amazon.com/gp/product/0123944430/ref=as_li_ss_tl?ref_=nav_ya_signin&linkCode=sl1&tag=processing09-20&linkId=fb0eeedd8fb1016a790e83d538a1c030)
+ - The SparkFun Guide to Processing [Order from Amazon](http://www.amazon.com/gp/product/1593276125/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593276125&linkCode=as2&tag=processing09-20&linkId=B7WHOVIHDYFQDJQZ)
+ - Processing: A Programming Handbook for Visual Designers, Second Edition [Order from MIT Press](https://mitpress.mit.edu/books/processing-second-edition) , [Order from Amazon](http://www.amazon.com/Processing-Programming-Handbook-Designers-Artists/dp/026202828X/ref=sr_1_6?s=books&ie=UTF8&qid=1406934187&sr=1-6&keywords=processing)
+ - Einführung ins Programmieren mit Processing [Order Print/EBook from lulu.com](http://www.lulu.com/shop/search.ep?keyWords=matthias+wolf&categoryId=100501)
 
