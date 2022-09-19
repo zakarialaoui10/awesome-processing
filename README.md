@@ -269,7 +269,7 @@
  - Coding Art: The Four Steps to Creative Programming with the Processing Language [Order from Amazon](https://www.amazon.com/gp/product/1484262638) , [Order from Apress](https://link.springer.com/book/10.1007/978-1-4842-6264-1)
  - [
 Programming 101: The How and Why of Programming Revealed Using the Processing Programming Language](https://link.springer.com/book/10.1007/978-1-4842-3697-0)
-- [O Código Transcendente: Uma Introdução Prática à Programação e Arte Gerativa](https://codigotranscendente.github.io/livro/livro/lindex.html) , html
+- O Código Transcendente: Uma Introdução Prática à Programação e Arte , [html](https://codigotranscendente.github.io/livro/livro/lindex.html)
 
 
 
