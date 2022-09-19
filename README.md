@@ -132,6 +132,12 @@
     - [Arduino (Firmata)](http://arduino.cc/playground/Interfacing/Processing) by [David A. Mellis](http://dam.mellis.org/)
     - [BlinkStick](http://arvydas.github.io/blinkstick-processing/) by [Arvydas Juskevicius](http://www.blinkstick.com/)
     - [DMX4Artists](https://github.com/jaysonh/Dmx4Artists/) by [Jayson Haebich](http://www.jaysonh.com/)
+    - [Eye Tribe for Processing]() by [Jorge C. S. Cardoso]()
+    - [GaussSense SDK for Processing]() by [GaussToys Inc.]()
+    - [GazeTrack: Eye-tracking for Processing (Tobii EyeX and 4C)]() by [Augusto Esteves]()
+    - [HPGLGraphics]() by [Ciaron Linstead]()
+    - [Hardware I/O]() by [The Processing Foundation]()
+    - [Intel RealSense for Processing]() by [Florian Bruggisser]()
     - []() by []()
   - ## Other 
     - [Green](https://ztdp.ca/projects/school/Green) by [Zacchary Dempsey-Plante](https://ztdp.ca/)
