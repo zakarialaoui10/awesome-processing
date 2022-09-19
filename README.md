@@ -264,7 +264,7 @@
    - [Render Techniques](https://processing.org/tutorials/rendering)
  
 # Books
- - [The nature of code](https://natureofcode.com/) by [DANIEL SHIFFMAN](https://shiffman.net/)
+ - The nature of code [html](https://natureofcode.com/) , [Order from Amazon](http://www.amazon.com/gp/product/0985930802/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0985930802&linkCode=as2&tag=processing09-20)
  - Learn Python Visually: Creative Coding with Processing.py [Order from Amazon](https://www.amazon.com/Learn-Python-Visually-Tristan-Bunn/dp/1718500963)
  - Coding Art: The Four Steps to Creative Programming with the Processing Language [Order from Amazon](https://www.amazon.com/gp/product/1484262638) , [Order from Apress](https://link.springer.com/book/10.1007/978-1-4842-6264-1)
  - Programming 101: The How and Why of Programming Revealed Using the Processing Programming Language [Order from Apress](https://link.springer.com/book/10.1007/978-1-4842-3697-0)
