@@ -231,7 +231,7 @@
     - [Spout for Processing](https://github.com/leadedge/SpoutProcessing/wiki) by [Lynn Jarvis](https://spout.zeal.co/) 
     - []() by []()
 ## Tutorials
- - ### Video Tutorials
+- ### Video Tutorials
    - [The Coding train](https://thecodingtrain.com/)
    - [Hello Processing](http://hello.processing.org/)
    - [Welcome to Processing 3](https://vimeo.com/140600280)
