@@ -28,15 +28,15 @@
    - [Video Tutorials](#video-tutorials)
    - [Text Tutorials](#text-tutorials)
  - [Books](#books)
-# Environment
+## Environment
  - [processing](https://processing.org/)
  - [processing.js](https://happycoding.io/tutorials/processing/processing-js)
  - [p5.js](https://p5js.org/)
  - [processing.py](https://py.processing.org/)
  - [processing for android](https://android.processing.org/)
  - [processing for pi](https://pi.processing.org/)
-# Libraries
-- # Core
+## Libraries
+- ### Core
   - [DXF Export](https://processing.org/reference/libraries/dxf/index.html)
   - [Hardware I/O](https://processing.org/reference/libraries/io/index.html)
   - [Network](https://processing.org/reference/libraries/net/index.html)
@@ -45,8 +45,8 @@
   - [Sound](https://processing.org/reference/libraries/sound/index.html)
   - [SVG Export](https://processing.org/reference/libraries/svg/index.html)
   - [Video](https://processing.org/reference/libraries/video/index.html)
-- # Contributions
-  - ## 3D
+- ### Contributions
+  - #### 3D
     - [Camera 3D](https://ixora.io/projects/camera-3D/) by [Jim Schmitz](https://ixora.io/)
     - [Collada Loader for SketchUp and Blender](http://www.die-seite.ch/) by [Markus Zimmermann](http://www.die-seite.ch/)
     - [Culebra Behavior Library for Processing](http://www.complicitmatter.com/culebra-java/) by [Luis Quinones](http://complicitmatter.com/)
@@ -62,7 +62,7 @@
     - [nub](https://github.com/VisualComputing/nub) by [Jean Pierre Charalambos
 ](https://visualcomputing.github.io/)
     - [planetarium](https://github.com/codeanticode/planetarium) by [Andres Colubri](http://andrescolubri.net/)
-  - ## GUI
+  - #### GUI
     - [ControlP5](http://www.sojamo.de/libraries/controlp5) by [Andreas Schlegel](http://www.sojamo.de/)
     - [G4P](http://www.lagers.org.uk/g4p) by [Peter Lager](http://www.lagers.org.uk/)
     - [Guido](https://github.com/fjenett/Guido) by [Florian Jenett](http://www.bezier.de/)
@@ -73,10 +73,10 @@
     - [meter](https://github.com/BillKujawa/meter.git) by [Bill (Papa) Kujaw](https://processing.org/reference/libraries/Papa)
     - [proscene](http://otrolado.info/) by [Jean Pierre Charalambos](http://otrolado.info/)
     
-  - ## Language
+  - #### Language
     - [Eliza](http://interfaze.info/libraries/eliza/) by [Andres Colubri](http://interfaze.info/)
     - [RiTa](https://rednoise.org/rita/) by [Daniel C. Howe](https://rednoise.org/daniel)
-  - ## Sound
+  - #### Sound
     - [Beads](http://www.beadsproject.net/) by [Ollie Bown](http://www.olliebown.com/)
     - [Cassette](https://github.com/shlomihod/cassette) by [Shlomi Hod]()
     - [ComposingForEveryone](http://www.kramann.info/cfe) by [Guido Kramann](http://www.kramann.info/cfe)
@@ -90,7 +90,7 @@
     - [XYscope](http://teddavis.org/xyscope) by [Ted Davis](http://www.teddavis.org/)
     - [ttslib](http://www.local-guru.net/blog/pages/ttslib) by [Nikolaus Gradwohl](http://www.local-guru.net/)
     - [wellen](https://github.com/dennisppaul/wellen) by [Dennis P Paul](https://dennisppaul.de/)
-  - ## Animation
+  - #### Animation
     - [Ani](http://benedikt-gross.de/libraries/Ani/) by [Benedikt Gross](http://benedikt-gross.de/)
     - [Everything Will Be IK](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) by [Eron Gjoni](https://github.com/EGjoni/)
     - [Green](https://ztdp.ca/projects/school/Green) by [Zacchary Dempsey-Plante](https://ztdp.ca/)
@@ -99,7 +99,7 @@
     - [XYscope](http://teddavis.org/xyscope) by [Ted Davis](http://www.teddavis.org/)
     - [nub](https://github.com/VisualComputing/nub) by [Jean Pierre Charalambos](https://visualcomputing.github.io/)
     - [proscene](http://otrolado.info/) by [Jean Pierre Charalambos](http://otrolado.info/)
-  - ## Geometry
+  - #### Geometry
     - [Computational Geometry](http://thecloudlab.org/processing/library.html) by [Mark Collins & Toru Hasegawa](http://thecloudlab.org/)
     - [Culebra Behavior Library for Processing](http://www.complicitmatter.com/culebra-java/) by [Luis Quinones](http://complicitmatter.com/)
     - [Dashed Lines](https://github.com/garciadelcastillo/-dashed-lines-for-processing-) by [Jose Luis Garcia del Castillo](http://www.garciadelcastillo.es/)
@@ -109,7 +109,7 @@
     - [Squarify](https://github.com/agatheblues/squarify) by [Agathe Lenclen](https://github.com/agatheblues)
     - [handy](https://www.gicentre.net/software/) by [Jo Wood](http://gicentre.net/)
     - [proscene](http://otrolado.info/) by [Jean Pierre Charalambos](http://otrolado.info/)
-  - ## Math
+  - #### Math
     - [Combinatorics](https://github.com/fjenett/combinatorics) by [Florian Jenett](http://www.bezier.de/)
     - [Complex Numbers](https://github.com/vmathmachine/Complex-Numbers/tree/latest) by [Math Machine](https://discourse.processing.org/u/math_machine/)
     - [HiVis](https://github.com/OliverColeman/hivis) by [Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran](https://github.com/OliverColeman/)
@@ -117,14 +117,14 @@
     - [QScript](http://www.lagers.org.uk/qscript) by [Peter Lager](http://www.lagers.org.uk/)
     - [grafica](http://jagracar.com/grafica.php) by [Javier Gracia Carpio](http://jagracar.com/)
     - [gwoptics](http://www.gwoptics.org/processing/gwoptics_p5lib/) by [Daniel Brown and Andreas Freise](http://www.gwoptics.org/processing/gwoptics_p5lib/)
-  - ## Typography
+  - #### Typography
     - [Fontastic](http://code.andreaskoller.com/libraries/fontastic) by [Andreas Koller](http://andreaskoller.com/)
     - [Geomerative](http://www.ricardmarxer.com/geomerative) by [Ricard Marxer](http://www.ricardmarxer.com/)
-  - ## Compilation
+  - #### Compilation
     - [GenerativeDesign](http://www.generative-gestaltung.de/) by [Hramut Bohnacker & Benedikt Groos]()
     - [ToxicLibs](http://toxiclibs.org/) by [Karsten Schmidt](http://postspectacular.com/)
     - [gicentreUtils](http://www.gicentre.org/utils/) by [Jo Wood](http://gicentre.org/)
-  - ## Hardware
+  - #### Hardware
     - [Apple Light Sensor](http://projects.formatlos.de/ambientlightsensor/) by [Martin Raedlinger](http://www.formatlos.de/)
     - [Arduino (Firmata)](http://arduino.cc/playground/Interfacing/Processing) by [David A. Mellis](http://dam.mellis.org/)
     - [BlinkStick](http://arvydas.github.io/blinkstick-processing/) by [Arvydas Juskevicius](http://www.blinkstick.com/)
@@ -146,13 +146,13 @@
     - [XYscope](http://teddavis.org/xyscope) by [Ted Davis](http://www.teddavis.org/)
     - [dmxP512]() by Henri DAVID
     - [meter](https://github.com/BillKujawa/meter.git) by [Bill (Papa) Kujaw](https://processing.org/reference/libraries/Papa)
-  - ## Other 
+  - #### Other 
     - [Green](https://ztdp.ca/projects/school/Green) by [Zacchary Dempsey-Plante](https://ztdp.ca/)
     - [JavaFX](https://github.com/processing/processing4-javafx) by [The Processing Foundation]()
     - [Path Finder](http://www.lagers.org.uk/pfind/index.html) by [Peter Lager](http://www.lagers.org.uk/)
     - [Ptmx](https://github.com/linux-man/ptmx) by [Caldas Lopes](http://softlab.pt/)
     - [Steganos](http://www.lagers.org.uk/steganos/index.html) by [Peter Lager](http://www.lagers.org.uk/)
-  - ## Utilerias
+  - #### Utilerias
     - [$1 Unistroke Recognizer](https://github.com/nok/onedollar-unistroke-recognizer) by [Darius Morawiec](http://nok.onl/)
     - [ColorBlindness](https://ixora.io/projects/colorblindness/) by [Jim Schmitz](https://ixora.io/)
     - [ColorScheme](http://josephtaylor.github.io/ColorScheme) by [J. Taylor OConnor](http://josephtaylor.github.io/)
@@ -162,7 +162,7 @@
     - [GR Infinidecimal Canvas](http://rect.dev/infinidecimal) by [C. Sina Cetin](http://rect.dev/)
     - [Grab](https://github.com/Transmedia-Gx/grab) by [Taka Iwai, Roy Tatum](http://transmedia.graphics/)
     - [ID3](http://jorgecardoso.eu/processing/ID3/) by [Jorge C. S. Cardoso](http://jorgecardoso.eu/)
-  - ## Data
+  - #### Data
     - [AP-Sync](http://ap-sync.github.io/) by [Nigel Tiany](http://nigeltiany.com/)
     - [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) by [Jianbin Qi](https://github.com/onlylemi/)
     - [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) by [Florian Bruggisser](https://bildspur.ch/)
@@ -191,7 +191,7 @@
     - [XlsReader](https://github.com/fjenett/xlsreader-library-processing) by [Florian Jenett](http://www.bezier.de/)
     - [oscP5](http://www.sojamo.de/libraries/oscp5) by [Andreas Schlegel](http://www.sojamo.de/)
     
-  - ## IO
+  - #### IO
     - [AP-Sync](http://ap-sync.github.io/) by [Nigel Tiany](http://nigeltiany.com/)
     - [Console](https://github.com/keshrath/Console) by [Mathias Markl](http://www.mukprojects.at/)
     - [Drop](http://transfluxus.github.io/drop/) by [Ramin Soleymani](http://diskordier.net/)
@@ -206,7 +206,7 @@
     - [MuKCast](https://github.com/keshrath/MuKCast) by [Mathias Markl](http://www.mukprojects.at/)
     - [NXTComm Processing](http://jorgecardoso.eu/processing/NXTComm/) by [Jorge C. S. Cardoso](http://jorgecardoso.eu/)
     - [Novation Launch Control client](https://github.com/haschdl/pLaunchController) by [Half Scheidl](https://github.com/haschdl)
-  - ## Simulation
+  - #### Simulation
     - [AI for 2D Games](http://www.lagers.org.uk/ai4g/index.html) by [Peter Lager](http://www.lagers.org.uk/)
     - [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) by [Daniel Shiffman](http://www.shiffman.net/)
     - [Carnivore](http://r-s-g.org/carnivore) by [RSG](http://r-s-g.org/)
@@ -217,7 +217,7 @@
     - [LiquidFunProcessing](https://github.com/diwi/LiquidFunProcessing) by [Thomas Diewald](http://www.thomasdiewald.com/)
     - [PixelFlow](https://github.com/diwi/PixelFlow) by [Thomas Diewald](http://www.thomasdiewald.com/)
     - [teilchen](https://github.com/dennisppaul/teilchen) by [Dennis P Paul](https://dennisppaul.de/)
-  - ## Video & Vision 
+  - #### Video & Vision 
     - [BlobDetection](http://www.v3ga.net/processing/BlobDetection/) by [Julien 'v3ga' Gachadoat](http://www.v3ga.net/)
     - [BoofCV for Processing](http://boofcv.org/index.php?title=Tutorial_Processing) by [Peter Abeles]()
     - [GL Video](https://github.com/gohai/processing-glvideo) by [Gottfried Haider](http://gottfriedhaider.com/)
@@ -230,8 +230,8 @@
     - [PixelFlow](https://github.com/diwi/PixelFlow) by [Thomas Diewald](http://www.thomasdiewald.com/)
     - [Spout for Processing](https://github.com/leadedge/SpoutProcessing/wiki) by [Lynn Jarvis](https://spout.zeal.co/) 
     - []() by []()
-# Tutorials
- - ## Video Tutorials
+## Tutorials
+ - ### Video Tutorials
    - [The Coding train](https://thecodingtrain.com/)
    - [Hello Processing](http://hello.processing.org/)
    - [Welcome to Processing 3](https://vimeo.com/140600280)
@@ -239,7 +239,7 @@
    - [2 Animation & Intetraction](https://imaginary-institute.com/the-course.html)
    - [Fun Programming](https://funprogramming.org/)
    - [Plethora Project](https://www.plethora-project.com/education/2017/5/31/processing-java-programming)   
- - ## Text Tutorials
+ - ### Text Tutorials
    - [Getting Started](https://processing.org/tutorials/gettingstarted)
    - [Processing Overiew](https://processing.org/tutorials/overview)
    - [Coordinate System and Shapes](https://processing.org/tutorials/coordinatesystemandshapes)
