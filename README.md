@@ -61,17 +61,17 @@
     - [iGeo](http://igeo.jp/) by [Satoru Sugihara](http://atlv.org/)
     - [nub](https://github.com/VisualComputing/nub) by [Jean Pierre Charalambos
 ](https://visualcomputing.github.io/)
-    - [planetarium](https://github.com/codeanticode/planetarium) by [Andres Colubri](http://andrescolubri.net/)
+    - [planetarium](https://github.com/codeanticode/planetarium)- by [Andres Colubri](http://andrescolubri.net/)
   - #### GUI
-    - [ControlP5](http://www.sojamo.de/libraries/controlp5) by [Andreas Schlegel](http://www.sojamo.de/)
-    - [G4P](http://www.lagers.org.uk/g4p) by [Peter Lager](http://www.lagers.org.uk/)
-    - [Guido](https://github.com/fjenett/Guido) by [Florian Jenett](http://www.bezier.de/)
-    - [Interfascia](http://github.com/brendanberg/interfascia) by [Brendan Berg]()
-    - [Swing Helper](https://github.com/NumericPrime/SwingHelperProcessing) by [Michael LukasNick 'Milchreis' Müller]()
-    - [UiBooster](http://github.com/milchreis/uibooster-for-processing) by [Nick 'Milchreis' Müller](http://github.com/milchreis)
-    - [handy](https://www.gicentre.net/software/) by [Jo Wood](http://gicentre.net/)
-    - [meter](https://github.com/BillKujawa/meter.git) by [Bill (Papa) Kujaw](https://processing.org/reference/libraries/Papa)
-    - [proscene](http://otrolado.info/) by [Jean Pierre Charalambos](http://otrolado.info/)
+    - [ControlP5](http://www.sojamo.de/libraries/controlp5)- by [Andreas Schlegel](http://www.sojamo.de/)
+    - [G4P](http://www.lagers.org.uk/g4p)- by [Peter Lager](http://www.lagers.org.uk/)
+    - [Guido](https://github.com/fjenett/Guido)- by [Florian Jenett](http://www.bezier.de/)
+    - [Interfascia](http://github.com/brendanberg/interfascia)- by [Brendan Berg]()
+    - [Swing Helper](https://github.com/NumericPrime/SwingHelperProcessing)- by [Michael LukasNick 'Milchreis' Müller]()
+    - [UiBooster](http://github.com/milchreis/uibooster-for-processing)- by [Nick 'Milchreis' Müller](http://github.com/milchreis)
+    - [handy](https://www.gicentre.net/software/)- by [Jo Wood](http://gicentre.net/)
+    - [meter](https://github.com/BillKujawa/meter.git)- by [Bill (Papa) Kujaw](https://processing.org/reference/libraries/Papa)
+    - [proscene](http://otrolado.info/)- by [Jean Pierre Charalambos](http://otrolado.info/)
     
   - #### Language
     - [Eliza](http://interfaze.info/libraries/eliza/) by [Andres Colubri](http://interfaze.info/)
