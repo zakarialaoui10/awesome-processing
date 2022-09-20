@@ -4,7 +4,7 @@
 <a href="https://processing.or">Processing </a>is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</a>
     
 # Contents
- - [Environement](#environement)
+ - [Environment](#environment)
  - [Libraries](#libraries)
    - [Core](#core)
    - [Contributions](#contributions)
@@ -28,7 +28,7 @@
    - [Video Tutorials](#video-tutorials)
    - [Text Tutorials](#text-tutorials)
  - [Books](#books)
-# Environement
+# Environment
  - [processing](https://processing.org/)
  - [processing.js](https://happycoding.io/tutorials/processing/processing-js)
  - [p5.js](https://p5js.org/)
