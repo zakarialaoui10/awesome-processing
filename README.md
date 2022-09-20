@@ -227,7 +227,7 @@
     - [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) by [Greg Borenstein](http://gregborenstein.com/) 
     - [Open Kinect for Processing](http://shiffman.net/p5/kinect/) by [Daniel Shiffman](http://shiffman.net/) 
     - [PS3Eye](https://github.com/diwi/PS3Eye) by [Thomas Diewald](http://www.thomasdiewald.com/)
-    - [PixelFlow](https://github.com/diwi/PixelFlow) by [Thomas Diewald](http://www.thomasdiewald.com/)
+    - [PixelFlow](https://github.com/diwi/PixelFlow)- by [Thomas Diewald](http://www.thomasdiewald.com/)
     - [Spout for Processing](https://github.com/leadedge/SpoutProcessing/wiki) by [Lynn Jarvis](https://spout.zeal.co/) 
     - []() by []()
 ## Tutorials
