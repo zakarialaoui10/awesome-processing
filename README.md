@@ -11,7 +11,7 @@
     - [GUI](#gui) 
     - [Language](#language)  
     - [Sound](#sound)
-    - [Animation](#animation)  
+    - [Animation](#animation)   
     - [Geometry](#geometry)
     - [Math](#math)
     - [Typography](#typography)
