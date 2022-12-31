@@ -14,7 +14,7 @@
     - [Animation](#animation)    
     - [Geometry](#geometry)
     - [Math](#math)
-    - [Typography](#typography)
+    - [Typography](#typography) 
     - [Compilation](#compilation)
     - [Hardware](#hardware)
     - [Other](#other)
