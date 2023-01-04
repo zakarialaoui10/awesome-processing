@@ -9,7 +9,7 @@
   - [Contributions](#contributions)
     - [3D](#3d)   
     - [GUI](#gui) 
-    - [Language](#language)   
+    - [Language](#language)    
     - [Sound](#sound)
     - [Animation](#animation)    
     - [Geometry](#geometry)
