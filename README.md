@@ -5,7 +5,7 @@
 ## Contents  
 - [Environment](#environment)      
 - [Libraries](#libraries)    
-  - [Core](#core)   
+  - [Core](#core)    
   - [Contributions](#contributions)  
     - [3D](#3d)   
     - [GUI](#gui)  
