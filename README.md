@@ -28,12 +28,12 @@
    - [Text Tutorials](#text-tutorials)
 - [Books](#books)
 ## Environement
- - [processing](https://processing.org/)
- - [processing.js](https://happycoding.io/tutorials/processing/processing-js)
- - [p5.js](https://p5js.org/)
- - [processing.py](https://py.processing.org/)
- - [processing for android](https://android.processing.org/)
- - [processing for pi](https://pi.processing.org/)
+- [processing](https://processing.org/)
+- [processing.js](https://happycoding.io/tutorials/processing/processing-js)
+- [p5.js](https://p5js.org/)
+- [processing.py](https://py.processing.org/)
+- [processing for android](https://android.processing.org/)
+- [processing for pi](https://pi.processing.org/)
 ## Libraries
 - ### Core
   - [DXF Export](https://processing.org/reference/libraries/dxf/index.html)
