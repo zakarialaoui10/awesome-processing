@@ -229,7 +229,7 @@
 - [Spout for Processing](https://github.com/leadedge/SpoutProcessing/wiki) - by [Lynn Jarvis](https://spout.zeal.co/) 
 - []() - by []()
 ## Tutorials
- ### Video Tutorials
+### Video Tutorials
 - [The Coding train](https://thecodingtrain.com/)
 - [Hello Processing](http://hello.processing.org/)
 - [Welcome to Processing 3](https://vimeo.com/140600280)
@@ -237,7 +237,7 @@
 - [2 Animation & Intetraction](https://imaginary-institute.com/the-course.html)
 - [Fun Programming](https://funprogramming.org/)
 - [Plethora Project](https://www.plethora-project.com/education/2017/5/31/processing-java-programming)   
- ### Text Tutorials
+### Text Tutorials
 - [Getting Started](https://processing.org/tutorials/gettingstarted)
 - [Processing Overiew](https://processing.org/tutorials/overview)
 - [Coordinate System and Shapes](https://processing.org/tutorials/coordinatesystemandshapes)
