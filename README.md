@@ -35,7 +35,7 @@
 - [processing for android](https://android.processing.org/)
 - [processing for pi](https://pi.processing.org/)
 ## Libraries
-- ### Core
+ ### Core
   - [DXF Export](https://processing.org/reference/libraries/dxf/index.html)
   - [Hardware I/O](https://processing.org/reference/libraries/io/index.html)
   - [Network](https://processing.org/reference/libraries/net/index.html)
@@ -44,23 +44,23 @@
   - [Sound](https://processing.org/reference/libraries/sound/index.html)
   - [SVG Export](https://processing.org/reference/libraries/svg/index.html)
   - [Video](https://processing.org/reference/libraries/video/index.html)
-- ### Contributions
-  - #### 3D
-    - [Camera 3D](https://ixora.io/projects/camera-3D/) by [Jim Schmitz](https://ixora.io/)
-    - [Collada Loader for SketchUp and Blender](http://www.die-seite.ch/) by [Markus Zimmermann](http://www.die-seite.ch/)
-    - [Culebra Behavior Library for Processing](http://www.complicitmatter.com/culebra-java/) by [Luis Quinones](http://complicitmatter.com/)
-    - [Everything Will Be IKEron Gjoni](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) by [Eron Gjoni](https://github.com/EGjoni/)
-    - [OCD: Obsessive Camera Direction](http://www.gdsstudios.com/processing/libraries/ocd/) by [Kristian Damkjer](http://www.gdsstudios.com/)
-    - [Patchy](http://mrfeinberg.com/patchy/) by [Jonathan Feinberg](http://mrfeinberg.com/)
-    - [PeasyCam](http://mrfeinberg.com/peasycam/) by [Jonathan Feinberg](http://mrfeinberg.com/)
-    - [Picking](http://n.clavaud.free.fr/processing/library/picking/) by [Nicolas Clavaud](http://n.clavaud.free.fr/)
-    - [QueasyCam](https://github.com/jrc03c/queasycam) by [Josh Castle](https://twitter.com/jrc03c)
-    - [Shapes 3D](http://www.lagers.org.uk/s3d4p/index.html) by [Peter Lager](http://www.lagers.org.uk/)
-    - [extruder](http://maxlfarrell.gitlab.io/extruder) by [Max Farrell](https://arcane.info/)
-    - [iGeo](http://igeo.jp/) by [Satoru Sugihara](http://atlv.org/)
-    - [nub](https://github.com/VisualComputing/nub) by [Jean Pierre Charalambos
+ ### Contributions
+   #### 3D
+   - [Camera 3D](https://ixora.io/projects/camera-3D/) by [Jim Schmitz](https://ixora.io/)
+   - [Collada Loader for SketchUp and Blender](http://www.die-seite.ch/) by [Markus Zimmermann](http://www.die-seite.ch/)
+   - [Culebra Behavior Library for Processing](http://www.complicitmatter.com/culebra-java/) by [Luis Quinones](http://complicitmatter.com/)
+   - [Everything Will Be IKEron Gjoni](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) by [Eron Gjoni](https://github.com/EGjoni/)
+   - [OCD: Obsessive Camera Direction](http://www.gdsstudios.com/processing/libraries/ocd/) by [Kristian Damkjer](http://www.gdsstudios.com/)
+   - [Patchy](http://mrfeinberg.com/patchy/) by [Jonathan Feinberg](http://mrfeinberg.com/)
+   - [PeasyCam](http://mrfeinberg.com/peasycam/) by [Jonathan Feinberg](http://mrfeinberg.com/)
+   - [Picking](http://n.clavaud.free.fr/processing/library/picking/) by [Nicolas Clavaud](http://n.clavaud.free.fr/)
+   - [QueasyCam](https://github.com/jrc03c/queasycam) by [Josh Castle](https://twitter.com/jrc03c)
+   - [Shapes 3D](http://www.lagers.org.uk/s3d4p/index.html) by [Peter Lager](http://www.lagers.org.uk/)
+   - [extruder](http://maxlfarrell.gitlab.io/extruder) by [Max Farrell](https://arcane.info/)
+   - [iGeo](http://igeo.jp/) by [Satoru Sugihara](http://atlv.org/)
+   - [nub](https://github.com/VisualComputing/nub) by [Jean Pierre Charalambos
 ](https://visualcomputing.github.io/)
-    - [planetarium](https://github.com/codeanticode/planetarium) by [Andres Colubri](http://andrescolubri.net/)
+   - [planetarium](https://github.com/codeanticode/planetarium) by [Andres Colubri](http://andrescolubri.net/)
   - #### GUI
     - [ControlP5](http://www.sojamo.de/libraries/controlp5) by [Andreas Schlegel](http://www.sojamo.de/)
     - [G4P](http://www.lagers.org.uk/g4p) by [Peter Lager](http://www.lagers.org.uk/)
