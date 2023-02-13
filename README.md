@@ -27,15 +27,15 @@
    - [Video Tutorials](#video-tutorials)
    - [Text Tutorials](#text-tutorials)
 - [Books](#books)
-# Environement
+## Environement
  - [processing](https://processing.org/)
  - [processing.js](https://happycoding.io/tutorials/processing/processing-js)
  - [p5.js](https://p5js.org/)
  - [processing.py](https://py.processing.org/)
  - [processing for android](https://android.processing.org/)
  - [processing for pi](https://pi.processing.org/)
-# Libraries
-- # Core
+## Libraries
+- ### Core
   - [DXF Export](https://processing.org/reference/libraries/dxf/index.html)
   - [Hardware I/O](https://processing.org/reference/libraries/io/index.html)
   - [Network](https://processing.org/reference/libraries/net/index.html)
@@ -44,8 +44,8 @@
   - [Sound](https://processing.org/reference/libraries/sound/index.html)
   - [SVG Export](https://processing.org/reference/libraries/svg/index.html)
   - [Video](https://processing.org/reference/libraries/video/index.html)
-- # Contributions
-  - ## 3D
+- ### Contributions
+  - #### 3D
     - [Camera 3D](https://ixora.io/projects/camera-3D/) by [Jim Schmitz](https://ixora.io/)
     - [Collada Loader for SketchUp and Blender](http://www.die-seite.ch/) by [Markus Zimmermann](http://www.die-seite.ch/)
     - [Culebra Behavior Library for Processing](http://www.complicitmatter.com/culebra-java/) by [Luis Quinones](http://complicitmatter.com/)
@@ -61,7 +61,7 @@
     - [nub](https://github.com/VisualComputing/nub) by [Jean Pierre Charalambos
 ](https://visualcomputing.github.io/)
     - [planetarium](https://github.com/codeanticode/planetarium) by [Andres Colubri](http://andrescolubri.net/)
-  - ## GUI
+  - #### GUI
     - [ControlP5](http://www.sojamo.de/libraries/controlp5) by [Andreas Schlegel](http://www.sojamo.de/)
     - [G4P](http://www.lagers.org.uk/g4p) by [Peter Lager](http://www.lagers.org.uk/)
     - [Guido](https://github.com/fjenett/Guido) by [Florian Jenett](http://www.bezier.de/)
