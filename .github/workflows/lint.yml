@@ -1,16 +1,14 @@
-name: Lint
 on:
-  push:
-    branches: [main]
   pull_request:
-    types: [opened, synchronize]
+    branches: [main]
+    paths:
+      - 'readme.md'
 jobs:
-  test:
-    name: Run awesome linter
+  lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-node@v3
-      with:
-        node-version: 16
-    - run: npx awesome-lint README.md
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: awesome-lint
+        run: ./.github/workflows/repo_linter.sh
