@@ -227,7 +227,6 @@
 - [PS3Eye](https://github.com/diwi/PS3Eye) - by [Thomas Diewald](http://www.thomasdiewald.com/)
 - [PixelFlow](https://github.com/diwi/PixelFlow) - by [Thomas Diewald](http://www.thomasdiewald.com/)
 - [Spout for Processing](https://github.com/leadedge/SpoutProcessing/wiki) - by [Lynn Jarvis](https://spout.zeal.co/) 
-- []() - by []()
 ## Tutorials
 ### Video Tutorials
 - [The Coding train](https://thecodingtrain.com/)
