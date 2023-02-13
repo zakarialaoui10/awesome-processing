@@ -142,7 +142,7 @@ is a flexible software sketchbook and a language for learning how to code. Since
 - [Sudden Motion Sensor](http://www.shiffman.net/p5/sms/) - by [Daniel Shiffman](http://www.shiffman.net/)
 - [Sweep for Processing](https://github.com/cansik/sweep-processing) - by [Florian Bruggisser](https://bildspur.ch/)
 - [XYscope](http://teddavis.org/xyscope) - by [Ted Davis](http://www.teddavis.org/)
-- [dmxP512]() - by Henri DAVID
+- [dmxP512](https://github.com/hdavid/dmxP512) - by [Henri DAVID](https://github.com/hdavid)
 - [meter](https://github.com/BillKujawa/meter.git) - by [Bill (Papa) Kujaw](https://processing.org/reference/libraries/Papa)
   #### Other 
 - [Green](https://ztdp.ca/projects/school/Green) - by [Zacchary Dempsey-Plante](https://ztdp.ca/)
