@@ -238,7 +238,7 @@
    - [2 Animation & Intetraction](https://imaginary-institute.com/the-course.html)
    - [Fun Programming](https://funprogramming.org/)
    - [Plethora Project](https://www.plethora-project.com/education/2017/5/31/processing-java-programming)   
- - # Text Tutorials
+ ### Text Tutorials
    - [Getting Started](https://processing.org/tutorials/gettingstarted)
    - [Processing Overiew](https://processing.org/tutorials/overview)
    - [Coordinate System and Shapes](https://processing.org/tutorials/coordinatesystemandshapes)
@@ -262,7 +262,7 @@
    - [Video](https://processing.org/tutorials/video)
    - [Render Techniques](https://processing.org/tutorials/rendering)
  
-# Books
+## Books
  - The nature of code [html](https://natureofcode.com/) , [Order from Amazon](http://www.amazon.com/gp/product/0985930802/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0985930802&linkCode=as2&tag=processing09-20)
  - Learn Python Visually: Creative Coding with Processing.py [Order from Amazon](https://www.amazon.com/Learn-Python-Visually-Tristan-Bunn/dp/1718500963)
  - Coding Art: The Four Steps to Creative Programming with the Processing Language [Order from Amazon](https://www.amazon.com/gp/product/1484262638) , [Order from Apress](https://link.springer.com/book/10.1007/978-1-4842-6264-1)
