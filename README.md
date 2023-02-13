@@ -35,7 +35,7 @@
 - [processing for android](https://android.processing.org/)
 - [processing for pi](https://pi.processing.org/)
 ## Libraries
- ### Core
+### Core
 - [DXF Export](https://processing.org/reference/libraries/dxf/index.html)
 - [Hardware I/O](https://processing.org/reference/libraries/io/index.html)
 - [Network](https://processing.org/reference/libraries/net/index.html)
@@ -44,7 +44,7 @@
 - [Sound](https://processing.org/reference/libraries/sound/index.html)
 - [SVG Export](https://processing.org/reference/libraries/svg/index.html)
 - [Video](https://processing.org/reference/libraries/video/index.html)
- ### Contributions
+### Contributions
    #### 3D
    - [Camera 3D](https://ixora.io/projects/camera-3D/) by [Jim Schmitz](https://ixora.io/)
    - [Collada Loader for SketchUp and Blender](http://www.die-seite.ch/) by [Markus Zimmermann](http://www.die-seite.ch/)
