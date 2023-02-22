@@ -1,4 +1,5 @@
-# Awesome Qubes   <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a>
+# Awesome Qubes    <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a>
+<p align="center">A security-focused desktop operating system that aims to provide security through isolation.</p>
 
 [<img src="assets/processing-logo.png" align="right" width="100">](https://processing.org)
 Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hob- byists who use Processing for learning and prototyping.
