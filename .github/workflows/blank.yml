@@ -27,5 +27,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run linter
-        run: npx awesome-lint https://github.com/zakarialaoui10/awesome-processing#readme
+        run: npx awesome-lint https://github.com/zakarialaoui10/awesome-processing
 
