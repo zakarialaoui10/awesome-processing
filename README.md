@@ -1,8 +1,8 @@
-# Awesome Processing [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Processing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hob- byists who use Processing for learning and prototyping.
+> A curated list of awesome libraries, snippets, guides, and projects for Processing.
 
-[<img src="assets/processing-logo.png" align="right" width="100">](https://processing.org)
+[Processing](https://processing.org) is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hob- byists who use Processing for learning and prototyping.
 
 ## Contents
 - [Environement](#environement)
