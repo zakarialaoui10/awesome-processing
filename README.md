@@ -9,7 +9,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
    - [Core](#core)
    - [Contributions](#contributions)
      - [3D](#3d)
-     - [GUI](#gui)
+     - [GUI](#gui) 
      - [Language](#language)
      - [Sound](#sound)
      - [Animation](#animation)
