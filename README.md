@@ -1,4 +1,4 @@
-# Awesome Processing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Processing ![Awesome](https://awesome.re/badge.svg)]
 
 > A curated list of awesome libraries, snippets, guides, and projects for Processing.
 
