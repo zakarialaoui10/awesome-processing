@@ -3,8 +3,10 @@
 
 > A curated list of code and content from the [Processing](https://processing.org) programming language community.
 
-[Processing](https://processing.org) is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hob- byists who use Processing for learning and prototyping.
+Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hob- byists who use Processing for learning and prototyping.
+
 ## Contents
+
 - [Environement](#environement)
 - [Libraries](#libraries)
    - [Core](#core)
