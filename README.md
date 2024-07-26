@@ -1,4 +1,4 @@
-<!--lint disable double-link--> 
+<!--lint disable double-link-->  
 # Awesome Processing   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 
 > A curated list of code and content from the [Processing](https://processing.org) programming language community.
