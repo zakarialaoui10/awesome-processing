@@ -1,7 +1,7 @@
 <!--lint disable double-link-->    
 # Awesome Processing     [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)        
      
-> A curated list of code and content from the [Processing](https://processing.org) programming language community.
+> A curated list of code and content from the [Processing](https://processing.org) programming language community. 
  
 [<img src="assets/processing-logo.png" align="left" width="100">](https://processing.org)
 Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hob- byists who use Processing for learning and prototyping.
