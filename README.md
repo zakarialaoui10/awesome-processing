@@ -1,6 +1,6 @@
 <!--lint disable double-link-->    
 # Awesome Processing     [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)      
-       
+        
 > A curated list of code and content from the [Processing](https://processing.org) programming language community. 
  
 [<img src="assets/processing-logo.png" align="left" width="100">](https://processing.org)
